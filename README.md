@@ -15,8 +15,8 @@
 <a href="mailto:dharsankumar0216@gmail.com">
   <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
 </a>
-<a href="https://dharsankumar-rk.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-4A00E0?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/>
+<a href="https://www.instagram.com/dhxrsn__rk?igsh=c2ozMWwyMGJweWRs" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
  <a href="https://dharsankumar-rk-portfolio.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit-4A00E0?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/>
