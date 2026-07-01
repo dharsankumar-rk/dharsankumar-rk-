@@ -32,9 +32,9 @@
 const dharsankumar = {
   name: "Dharsankumar R K",
   role: "Final Year CSE Student",
-  location: "India",
-  focus: ["RAG Pipelines", "Vector Databases", "LLM Integrations"],
-  currentProject: "AI-Powered Study Companion 📚🤖",
+  location: "Sankari,Salem Dt",
+  focus: [" Gen AI ", " Crypto Technology ", " LLM "],
+  currentProject: " AI career tool ",
   motto: "Don't judge a book by its cover.",
   
 };
